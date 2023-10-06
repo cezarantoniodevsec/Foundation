@@ -8,7 +8,7 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/cezar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/cezar/Documents/Codigos/Publish/fundamentos/CSharpFoundation/CSharpFoundation.csproj",
       "projectName": "CSharpFoundation",
       "projectPath": "/home/cezar/Documents/Codigos/Publish/fundamentos/CSharpFoundation/CSharpFoundation.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/cezar/.nuget/packages/",
       "outputPath": "/home/cezar/Documents/Codigos/Publish/fundamentos/CSharpFoundation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/cezar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
