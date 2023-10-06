@@ -4,12 +4,13 @@ namespace CSharpFoundation.DSA.MyCollections
     {
         public Node head { get; set; }    
             public class Node {
-            public int value { get; set; } 
-            public Node next  { get; set; }         
-            public Node(int v){
-                next = null;
-                this.value = v;  
-            }
+                public int value { get; set; } 
+                public Node next  { get; set; }
+                         
+                public Node(int v){
+                    next = null;
+                    this.value = v;  
+                }
         }
         
         public void Add(int new_value){
