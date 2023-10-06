@@ -1,4 +1,4 @@
-using System;
+using CSharpFoundation.DSA;
 
 namespace TestsCSharpFoundation.DSA
 {
