@@ -3,7 +3,7 @@ using CSharpFoundation.DSA;
 
 public class UTStringExercises
 {
-   [Fact]
+    [Fact]
     public void testReverseWordsInAGivenString()
     {
         // Given
@@ -63,7 +63,6 @@ public class UTStringExercises
         Assert.Equal(expectedResult,actualResult);
     }
     
-
     [Fact]
     public void TestConvertingRomanNumeralsToDecimal3thdCenario()
     {
