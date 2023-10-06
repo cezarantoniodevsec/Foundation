@@ -1,5 +1,3 @@
-namespace TreinamentoDSA.DSA;
-
 namespace CSharpFoundation.DSA
 {
     public static class MatrixExercises
