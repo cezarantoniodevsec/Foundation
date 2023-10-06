@@ -1,4 +1,4 @@
-namespace CSharpFoundation.DSA.MyCollections;
+namespace CSharpFoundation.DSA.MyCollections
 {
     public class MyLinkedList
     {
