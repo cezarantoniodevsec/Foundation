@@ -1,8 +1,8 @@
 namespace TestsCSharpFoundation.DSA;
 using CSharpFoundation.DSA;
 
-public class UTStringExercises
-{
+public class UTStringExercises{
+    
     [Fact]
     public void testReverseWordsInAGivenString()
     {
