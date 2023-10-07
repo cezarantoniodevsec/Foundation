@@ -5,8 +5,9 @@ namespace CSharpFoundation.DSA
     public static class StackExercises
     {
         public static bool checkBalancedBracked(string brackeds){
+            var dicPares = new Dictionary<char, char>();
             var arrCaracteres = brackeds.ToCharArray();
-            Stack<char> stackCaracter = new Stack<char>();
+            var stackCaracter = new Stack<char>();
             
             dicPares.Add('{','}');
             dicPares.Add('[',']');
