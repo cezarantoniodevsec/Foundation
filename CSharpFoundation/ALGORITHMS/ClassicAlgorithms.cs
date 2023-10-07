@@ -4,7 +4,7 @@ namespace CSharpFoundation.ALGORITHMS
 {
     public static class ClassicAlgorithms{
 
-        public static string processaFizzBuzz(int i){
+        public static string FizzBuzz(int i){
             StringBuilder vs_FizzBuzz = new StringBuilder();
             int contador = 1; 
 
@@ -30,5 +30,6 @@ namespace CSharpFoundation.ALGORITHMS
 
             return vs_FizzBuzz.ToString();
         }
+        
     }
 }
